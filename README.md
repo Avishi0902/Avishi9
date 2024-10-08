@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Avishi9
-- 👀 I’m interested in ...ux/ui
+- 👀 I’m interested in ...backend development
 - 🌱 I’m currently learning ...java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...avishi9@gmail.com
